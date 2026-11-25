@@ -1,0 +1,4 @@
+project_id = "uudsfidmqmtioahmxuve"
+
+[functions.admin-riders]
+verify_jwt = true

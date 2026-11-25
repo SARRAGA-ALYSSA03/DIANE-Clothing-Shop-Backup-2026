@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DIANE Clothing Shop</string>
+    <string name="title_activity_main">DIANE Clothing Shop</string>
+    <string name="package_name">com.diane.clothingshop</string>
+    <string name="custom_url_scheme">com.diane.clothingshop</string>
+</resources>
